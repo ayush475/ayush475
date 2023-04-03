@@ -17,7 +17,8 @@
 
 ---
 <!-- [![](https://visitcount.itsvg.in/api?id=ayush475&icon=4&color=0)](https://visitcount.itsvg.in) -->
-[![](https://visitcount.itsvg.in/api?id=ayush475&label=Eti%20jana%20le%20herya%20re&color=7&icon=3&pretty=false)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=ayush475&label=Eti%20jana%20le%20herya%20re&color=7&icon=3&pretty=false)](https://visitcount.itsvg.in) -->
+[![](https://visitcount.itsvg.in/api?id=ayush475&label=you%3D%2B1%20profile%20views&color=5&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
