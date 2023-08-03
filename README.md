@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on (Reading Docs)<br>👯 I’m looking to collaborate on  Productive Project<br>🤝 I’m looking for help with Typescript<br>🌱 I’m currently learning "Python"<br>💬 Ask me about "placeholder"<br>⚡ Fun fact : I am tooo Lazy
+🔭 I’m currently working on Laravel<br>👯 I’m looking to collaborate on  Productive Project<br>🤝 I’m looking for help with Typescript<br>🌱 I’m currently learning "Python"<br>💬 Ask me about "placeholder"<br>⚡ Fun fact : I am tooo Lazy
 
 
 # 💻 Tech Stack ( Believe me I have written "hello world" in all these ):
